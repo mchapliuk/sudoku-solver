@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Sudoku Solver",
+  "version": "1.0.0",
+
+  "browser_actions": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "default_locale": "en",
+  "description": "This extension solves a given Sudoku in the sudoku.org.ua",
+  "icons": "",
+  "author": "Maksym Chapliuk"
+}
